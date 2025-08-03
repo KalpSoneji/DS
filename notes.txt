@@ -1,0 +1,46 @@
+Things to take care of
+1. Time complexity
+2. Space complexity
+3. Optimise the program
+
+Types
+
+1. Linear
+	a. Array
+	b. Stack
+	c. Queue
+	d. Linked List 
+2. Non-linear
+	a. Tree
+	b. Graph
+
+Searching techniques
+1. Linear
+2. Binary
+
+Sorting techniques
+1. Bubble
+2. Selection
+3. Merge
+4. Insertion
+5. Quick
+
+Leetcode to be performed regularly
+
+Interviewers see these 3 cases:
+
+1. Best - Fastest
+2. Average
+3. Worst - Slowest
+
+Asymptotic notations
+
+1. Big O - Worst case - upper bound, takes max time
+2. Omega - Best case - lower bound, takes min time
+3. Theta - Average case - right bound
+
+Array: 
+
+length/size = zero to (size - 1)
+
+index or subscript
