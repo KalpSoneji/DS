@@ -44,3 +44,7 @@ Array:
 length/size = zero to (size - 1)
 
 index or subscript
+
+index starts with 0 whereas location starts with 1.
+
+
