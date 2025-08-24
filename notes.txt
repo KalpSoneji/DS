@@ -47,4 +47,12 @@ index or subscript
 
 index starts with 0 whereas location starts with 1.
 
+In bubble sort, from start to end, you compare 2 values and swap them if they're in descending order. 
+Once you reach end, one pass is complete with at max n - 1 subpasses.
+Max number of passes = n - 1
 
+Time complexity of bubble sort: n*n or n^2
+
+Selection sort better then bubble sort.
+
+In selection sort, you pick the smallest element and swap it with index in ascending order. This completes 1 pass.
